@@ -1,0 +1,101 @@
+📋 REQUERIMIENTOS DEL SISTEMA DE REPORTES DE FUGAS Y MONITOREO DE TINACO
+🧠 1. Descripción general
+
+El sistema permitirá monitorear el nivel de agua de un tinaco, detectar fugas y registrar reportes.
+Los usuarios podrán acceder a un dashboard web interactivo donde visualizarán en tiempo real el estado del tinaco, estadísticas de consumo y reportes activos.
+Los datos serán recolectados desde sensores (reales o simulados) y almacenados en MongoDB a través de una API REST construida con Node.js.
+La interfaz del dashboard estará desarrollada en Angular con TailwindCSS para el diseño visual.
+
+⚙️ 2. Requerimientos funcionales (qué hará el sistema)
+2.1 Gestión de usuarios
+
+RF1. El sistema debe permitir el registro de usuarios (nombre, correo, contraseña).
+
+RF2. El sistema debe permitir el inicio de sesión usando autenticación JWT.
+
+RF3. El sistema debe permitir a los usuarios cerrar sesión y proteger rutas privadas del dashboard.
+
+2.2 Monitoreo del tinaco
+
+RF4. El sistema debe recibir datos del tinaco provenientes de sensores o simuladores (nivel, flujo, presión, fecha y hora).
+
+RF5. El sistema debe almacenar los datos en MongoDB.
+
+RF6. El sistema debe mostrar el nivel actual del agua en porcentaje o litros.
+
+RF7. El sistema debe graficar el historial de niveles de agua.
+
+RF8. El sistema debe emitir alertas visuales si:
+
+El nivel de agua es bajo (<20%).
+
+Se detecta una fuga (descenso anormal del nivel o presión irregular).
+
+2.3 Gestión de reportes de fugas
+
+RF9. El sistema debe permitir registrar reportes de fugas manuales (por un usuario).
+
+RF10. El sistema debe poder crear reportes automáticos si se detecta una fuga según los datos del tinaco.
+
+RF11. El sistema debe mostrar una lista de reportes con estado (pendiente, resuelto).
+
+RF12. El sistema debe permitir marcar un reporte como resuelto.
+
+2.4 Dashboard de administración
+
+RF13. El sistema debe ofrecer un panel de control con resumen general, mostrando:
+
+Nivel actual del tinaco.
+
+Número total de reportes.
+
+Número de reportes activos.
+
+Última actualización recibida.
+
+RF14. El dashboard debe actualizarse dinámicamente (sin recargar la página).
+
+RF15. El dashboard debe ser responsive y visualmente limpio (TailwindCSS).
+
+🗃️ 3. Requerimientos no funcionales (cómo debe comportarse el sistema)
+Categoría	Requerimiento
+Rendimiento	El sistema debe responder a cada solicitud en menos de 1 segundo.
+Seguridad	Las contraseñas deben almacenarse con hash (bcrypt).
+Autenticación	El acceso a rutas privadas debe requerir un token JWT válido.
+Escalabilidad	La API debe soportar múltiples sensores y usuarios concurrentes.
+Usabilidad	La interfaz debe ser intuitiva, moderna y fácil de navegar.
+Disponibilidad	El sistema debe poder ejecutarse en un entorno local o en la nube (ej. Render, Vercel, Atlas).
+Integración	La API debe permitir el envío de datos mediante solicitudes HTTP (desde ESP32 o simulador).
+Compatibilidad	El dashboard debe funcionar correctamente en Chrome, Edge y Firefox.
+🧩 4. Requerimientos técnicos
+Componente	Descripción
+Lenguaje principal	JavaScript (ECMAScript 6+)
+Backend	Node.js con Express
+Base de datos	MongoDB (MongoDB Atlas o local)
+Frontend	Angular (SPA)
+Estilos	TailwindCSS
+Autenticación	JWT + bcrypt
+Conexión con sensores	API REST mediante POST /api/tank/data
+Gráficas	Librería Chart.js o amCharts
+Control de estado (Angular)	Signals o Services
+Gestión de entornos	Variables en archivo .env
+Servidor	Render o Railway (para despliegue gratuito)
+🧠 5. Casos de uso (resumen)
+Actor	Caso de uso	Descripción
+Usuario	Iniciar sesión	Acceder al dashboard con su cuenta.
+Usuario	Registrar fuga	Reportar manualmente una fuga detectada.
+Sistema	Registrar datos del tinaco	Guardar automáticamente los datos enviados por sensores.
+Sistema	Detectar fuga automática	Analizar datos y crear un reporte si hay variación brusca.
+Usuario	Consultar nivel actual	Ver el nivel de agua y consumo histórico.
+Usuario	Resolver reporte	Cambiar el estado de un reporte de “pendiente” a “resuelto”.
+💡 6. Requerimientos futuros (opcional / escalable)
+
+Integrar notificaciones push o por correo cuando haya fugas.
+
+Agregar control remoto de válvulas o bombas desde el dashboard.
+
+Implementar conexión en tiempo real con WebSockets.
+
+Incluir modo “offline” en la app web.
+
+Analítica avanzada (promedios, tendencias de consumo, predicciones).
