@@ -1,7 +1,7 @@
 
 ---
-# Proyecto-Guardian Walter
-### Guardian Walter - IDENTIDAD GRAFICA
+# Proyecto-Guardian Water
+### Guardian Water - IDENTIDAD GRAFICA
 <p align="justify"> La identidad gráfica de GuardianWater transmite responsabilidad, sostenibilidad y participación ciudadana. Sus tonos azules y blancos reflejan pureza, confianza y tecnología, reforzando el compromiso con el uso responsable del agua y la colaboración entre comunidad y autoridades.
 </p>
 
@@ -60,10 +60,32 @@ El proyecto GuardianWater busca dar respuesta a esta problemática mediante una 
 <p align="justify"><strong>Promoción del cuidado del agua</strong>: Fomentar la participación ciudadana y la cultura del uso responsable del agua mediante el uso continuo de la plataforma.</p>
 
 
+---
+
+### Alcance del proyecto
+
+<p align="justify">El proyecto Guardian Walter consiste en el desarrollo de una aplicación web enfocada en mejorar la comunicación entre los ciudadanos del municipio y el organismo encargado del suministro de agua (SOSAPAX), permitiendo reportar fugas de manera rápida, sencilla y accesible.
+La plataforma permitirá a los usuarios registrarse o iniciar sesión, realizar reportes de fugas indicando su ubicación, agregar una breve descripción y subir una imagen como evidencia. Estos reportes serán almacenados en una base de datos y estarán disponibles para el personal de SOSAPAX, quien podrá revisar, actualizar el estado de cada caso (pendiente, en proceso o solucionado) y dar seguimiento hasta su resolución.
+El sistema incluirá un panel administrativo para la gestión de reportes, la visualización de estadísticas básicas y la actualización del estado de cada incidencia. Además, se integrará la función de geolocalización para ubicar de forma precisa el lugar del reporte, optimizando la atención y respuesta.
+El alcance del proyecto se limita al desarrollo e implementación del sistema web en un entorno local o de prueba. No contempla, en esta fase, la publicación oficial de la plataforma ni la conexión directa con sistemas internos de SOSAPAX, aunque queda previsto como una posible fase futura de expansión.
+</p>
+
+
+---
+
+### Justificación del Tipo de Proyecto
+
+<p align="justify">El proyecto GuardianWater se clasifica como un proyecto de desarrollo tecnológico con impacto social y ambiental, orientado a contribuir al cumplimiento de los Objetivos de Desarrollo Sostenible (ODS) establecidos por la Agenda 2030 de las Naciones Unidas, principalmente el ODS 6: Agua limpia y saneamiento.
+Este objetivo busca garantizar la disponibilidad y gestión sostenible del agua para todos, lo cual representa un reto en municipios como Xicotepec de Juárez, Puebla, donde la mala calidad del agua, la falta de monitoreo eficiente y la escasa conciencia ciudadana sobre su uso responsable han generado problemas de escasez, fugas y desperdicio del recurso hídrico.
+A través del desarrollo de una aplicación web interactiva, GuardianWater propone una solución innovadora que fortalece la comunicación entre la ciudadanía y el organismo operador (SOSAPAX), permitiendo reportar fugas, monitorear el consumo en tiempo real y fomentar la educación ambiental. De esta forma, el proyecto impulsa acciones concretas que apoyan no solo el ODS 6, sino también otros objetivos complementarios:
+•	ODS 9: Industria, innovación e infraestructura, al promover el uso de tecnología para mejorar los servicios públicos.
+•	ODS 11: Ciudades y comunidades sostenibles, al contribuir a una gestión hídrica más eficiente y resiliente.
+•	ODS 13: Acción por el clima, al fomentar prácticas que reduzcan el desperdicio y promuevan la adaptación ante la escasez de agua.
+Por lo tanto, el tipo de proyecto se justifica plenamente como una iniciativa tecnológica sostenible, que integra innovación digital con responsabilidad social y ambiental. GuardianWater no solo busca resolver una problemática local, sino también alinearse con los principios globales de sostenibilidad, aportando al desarrollo de comunidades más conscientes, participativas y comprometidas con la protección del agua, un recurso vital para la vida y el futuro del planeta.</p>
 
 ### DIAGRAMA DE GANNT
 
-<img src="FronEnd\Assets\Imagenes\Diagrama de Gantt.png" width="80%" style="padding: 10px;" /></td>
+<img src="Documentation/Diagrams/Diagrama de Gantt.png" width="80%" style="padding: 10px;" /></td>
 
 ---
 
@@ -88,7 +110,7 @@ El proyecto GuardianWater busca dar respuesta a esta problemática mediante una 
 
 
 ### ORGANIGRAMA DEL EQUIPO
-  <img src="FronEnd\Assets\Imagenes\Organigrama Roles.png" width="80%" style="padding: 10px;" />
+  <img src="Documentation\Diagrams/Organigrama Guardian Water.png" width="80%" style="padding: 10px;" />
 
 
 
