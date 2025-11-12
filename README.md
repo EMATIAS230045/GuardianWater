@@ -63,7 +63,7 @@ El proyecto GuardianWater busca dar respuesta a esta problemática mediante una 
 
 ### DIAGRAMA DE GANNT
 
-<img src="FronEnd\Assets\Imagenes\Diagrama de Gantt.png" width="80%" style="padding: 10px;" /></td>
+<img src="Documentation/Diagrams/Diagrama de Gantt.png" width="80%" style="padding: 10px;" /></td>
 
 ---
 
