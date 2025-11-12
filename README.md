@@ -74,7 +74,7 @@ El proyecto GuardianWater busca dar respuesta a esta problemática mediante una 
 ## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|
-|------------|--------|---|---|
+|------------|--------|---|
 |José Arturo García González|[@ppyo1234](https://github.com/ppyo1234)|🧑‍🏫Scrum Master y Documentador|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|🧑‍💻Desarrollador BackEnd|
 |Diego Miguel Rivera Chávez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|👨‍🎨Desarrollador FrontEnd|
