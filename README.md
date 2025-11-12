@@ -1,7 +1,7 @@
 
 ---
-# Proyecto-Guardian Walter
-### Guardian Walter - IDENTIDAD GRAFICA
+# Proyecto-Guardian Water
+### Guardian Water - IDENTIDAD GRAFICA
 <p align="justify"> La identidad gráfica de GuardianWater transmite responsabilidad, sostenibilidad y participación ciudadana. Sus tonos azules y blancos reflejan pureza, confianza y tecnología, reforzando el compromiso con el uso responsable del agua y la colaboración entre comunidad y autoridades.
 </p>
 
@@ -88,7 +88,7 @@ El proyecto GuardianWater busca dar respuesta a esta problemática mediante una 
 
 
 ### ORGANIGRAMA DEL EQUIPO
-  <img src="FronEnd\Assets\Imagenes\Organigrama Roles.png" width="80%" style="padding: 10px;" />
+  <img src="Documentation\Diagrams/Organigrama Guardian Water.png" width="80%" style="padding: 10px;" />
 
 
 
