@@ -2,9 +2,13 @@
 
 
 En esta seccion encontraremos el apartado de los requisitos funcionales de la aplicacion web ,detallando de lo que el sistema debe hacer desde una perspectiva funcional.
+
+
+
+
 ## Estructura de Archivos
 
->Guardian-Water<br>
+>**Guardian-Water**<br>
 >| - Backend <br>
 >| - Database<br>
 >| - **Documentation**<br>

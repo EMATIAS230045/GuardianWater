@@ -7,15 +7,14 @@ Los requerimientos no funcionales de GuardianWater permiten definir los atributo
 
 ## Estructura de Archivos
 
->IntegradoraI-AQUA-VIDA<br>
+>**Guardian-Water**<br>
 >| - Backend <br>
->| - PHP<br>
->| - DB_Connection<br>
 >| - Database<br>
 >| - **Documentation**<br>
 > &nbsp;&nbsp;|- BRs<br>
 > &nbsp;&nbsp;|- FRs<br>
-> &nbsp;&nbsp;|- **GUI**<br>
+> &nbsp;&nbsp;|- Diagrams<br>
+> &nbsp;&nbsp;|- GUI<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- SisteMap<br>
@@ -29,12 +28,11 @@ Los requerimientos no funcionales de GuardianWater permiten definir los atributo
 >| - FrontEnd <br>
 
 
-## 👨‍💻 Founding Tech Team – Legacy Release (v1.0.0)
+## Equipo de Desarrollo 👨‍💻
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado.|
-|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|✔️ Revisado y aprobado (Sin embargo hay mucha redundancia entre README y archivo adjunto).|
-|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✔️  Revisado y aprobado|
-|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|✔️ Revisado y aprobado|
- 
+|José Arturo García González|[@ppyo1234](https://github.com/ppyo1234)|🧑‍🏫Scrum Master y Documentador|✔️ Revisado y aprobado.|
+|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|✔️ Revisado y aprobado (Informacion bien estructurada).|
+|Diego Miguel Rivera Chávez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|✔️  Revisado y aprobado|
+|Erick Matias Granillo Mejia|[@EMATIAS230045](https://github.com/EMATIAS230045)|✔️ Revisado y aprobado, los FRs son adeacuados para el proyecto actual|
