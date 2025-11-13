@@ -5,14 +5,13 @@ Esta sección contiene todos los documentos necesarios para entender, desarrolla
 
 ## Estructura de Archivos
 
->GuardianWater<br>
+>**Guardian-Water**<br>
 >| - Backend <br>
->| - PHP<br>
->| - DB_Connection<br>
 >| - Database<br>
 >| - **Documentation**<br>
 > &nbsp;&nbsp;|- BRs<br>
 > &nbsp;&nbsp;|- FRs<br>
+> &nbsp;&nbsp;|- Diagrams<br>
 > &nbsp;&nbsp;|- GUI<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
