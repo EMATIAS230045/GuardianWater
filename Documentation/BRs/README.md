@@ -18,7 +18,7 @@ Cada regla fue diseñada para apoyar la correcta gestión de reportes, el acceso
 >| - Backend <br>
 >| - Database<br>
 >| - **Documentation**<br>
-> &nbsp;&nbsp;|- BRs<br>
+> &nbsp;&nbsp;|- **BRs**<br>
 > &nbsp;&nbsp;|- FRs<br>
 > &nbsp;&nbsp;|- Diagrams<br>
 > &nbsp;&nbsp;|- GUI<br>
@@ -29,7 +29,7 @@ Cada regla fue diseñada para apoyar la correcta gestión de reportes, el acceso
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
 > &nbsp;&nbsp;|- Installation<br>
 > &nbsp;&nbsp;|- Manual<br>
-> &nbsp;&nbsp;|- **NFRs**<br>
+> &nbsp;&nbsp;|- NFRs<br>
 > &nbsp;&nbsp;|- UHs<br>
 > &nbsp;&nbsp;|- UserManual<br>
 >| - FrontEnd <br>
