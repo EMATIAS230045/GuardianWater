@@ -1,6 +1,6 @@
 # Prototype ![Prototype](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 
-Un prototipo es una versión preliminar o inicial de un producto o sistema que simula ciertas características o funcionalidades específicas
+Un prototipo es una representación temprana de un sistema o producto que permite evaluar su estructura, interacción y comportamiento antes de desarrollar la versión final.
 
 ## Estructura de Archivos
 
