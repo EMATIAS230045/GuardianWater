@@ -4,15 +4,14 @@ Un Sistema de Mapas es una plataforma o aplicación que permite la visualizació
 
 ## Estructura de Archivos
 
->IntegradoraI-AQUA-VIDA<br>
+>**Guardian-Water**<br>
 >| - Backend <br>
->| - PHP<br>
->| - DB_Connection<br>
 >| - Database<br>
 >| - **Documentation**<br>
 > &nbsp;&nbsp;|- BRs<br>
 > &nbsp;&nbsp;|- FRs<br>
-> &nbsp;&nbsp;|- **GUI**<br>
+> &nbsp;&nbsp;|- Diagrams<br>
+> &nbsp;&nbsp;|- GUI<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- **SisteMap**<br>
@@ -26,11 +25,11 @@ Un Sistema de Mapas es una plataforma o aplicación que permite la visualizació
 >| - FrontEnd <br>
 
 
-## 👨‍💻 Founding Tech Team – Legacy Release (v1.0.0)
+## Equipo de Desarrollo Versión: NextGen Release
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado.|
-|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No aprobado (El shields utilizado no concuerda con el archivo y proposito de la carpeta, nombre del archivo incorrecto y queda a mejora el mapa de sitio adjuntado...).|
-|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|❌ No revisado|
-|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No aprobado, falta una mejor organizacion del mapa de sitio|
+|José Arturo García González|[@ppyo1234](https://github.com/ppyo1234)|❌No Definido|❌ No revisado|
+|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|❌No Definido|❌ No revisado|
+|Diego Miguel Rivera Chávez|[@DiegoMiguel04](https://github.com/DiegoMiguel04)|❌No Definido|❌ No revisado|
+|Erick Matias Granillo Mejia|[@EMATIAS230045](https://github.com/EMATIAS230045)|❌No Definido|❌ No revisado|
