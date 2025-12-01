@@ -12,11 +12,11 @@
 > &nbsp;&nbsp;|- FRs<br>
 > &nbsp;&nbsp;|- Diagrams<br>
 > &nbsp;&nbsp;|- GUI<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;|- **Mockups**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- SisteMap<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;|- **Wireframes**<br>
 > &nbsp;&nbsp;|- Installation<br>
 > &nbsp;&nbsp;|- Manual<br>
 > &nbsp;&nbsp;|- NFRs<br>
