@@ -1,7 +1,6 @@
-# Documentation  ![Documentation](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+# Prototype ![Prototype](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 
-
-Esta sección contiene todos los documentos necesarios para entender, desarrollar y mantener el proyecto. Incluye desde la descripción de requisitos hasta manuales de usuario y diagramas de diseño. 
+Un prototipo es una representación temprana de un sistema o producto que permite evaluar su estructura, interacción y comportamiento antes de desarrollar la versión final.
 
 ## Estructura de Archivos
 
@@ -14,7 +13,7 @@ Esta sección contiene todos los documentos necesarios para entender, desarrolla
 > &nbsp;&nbsp;|- Diagrams<br>
 > &nbsp;&nbsp;|- GUI<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;|- **Prototype**<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- SisteMap<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>

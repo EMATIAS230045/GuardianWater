@@ -1,7 +1,6 @@
-# Documentation  ![Documentation](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+# Wireframes![Wireframes](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-
-Esta sección contiene todos los documentos necesarios para entender, desarrollar y mantener el proyecto. Incluye desde la descripción de requisitos hasta manuales de usuario y diagramas de diseño. 
+ Un wireframe es una representación visual básica y esquemática de la estructura y disposición de elementos en una interfaz de usuario o página web.
 
 ## Estructura de Archivos
 
@@ -17,7 +16,7 @@ Esta sección contiene todos los documentos necesarios para entender, desarrolla
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- SisteMap<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;|- **Wireframes**<br>
 > &nbsp;&nbsp;|- Installation<br>
 > &nbsp;&nbsp;|- Manual<br>
 > &nbsp;&nbsp;|- NFRs<br>

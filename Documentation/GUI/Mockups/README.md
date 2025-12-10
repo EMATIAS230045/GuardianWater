@@ -1,7 +1,6 @@
-# Documentation  ![Documentation](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+# Mockups ![Mockups](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-
-Esta sección contiene todos los documentos necesarios para entender, desarrollar y mantener el proyecto. Incluye desde la descripción de requisitos hasta manuales de usuario y diagramas de diseño. 
+Un mockup es una maqueta visual que permite previsualizar la apariencia final de una interfaz, mostrando su distribución, estilos y elementos gráficos antes de pasar a etapas de desarrollo o prototipado funcional.
 
 ## Estructura de Archivos
 
@@ -13,7 +12,7 @@ Esta sección contiene todos los documentos necesarios para entender, desarrolla
 > &nbsp;&nbsp;|- FRs<br>
 > &nbsp;&nbsp;|- Diagrams<br>
 > &nbsp;&nbsp;|- GUI<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;|- **Mockups**<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- SisteMap<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
